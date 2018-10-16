@@ -1,0 +1,13 @@
+<?php return; ?>
+
+LBL_ISPC_TITLE: ISPConfig Website
+LBL_ISPC_ENABLED: Zugangsdaten auf ISPConfig
+LBL_ISPC_SITE: ISPConfig Website
+LBL_ISPC_ID: ISPConfig ID
+LBL_ISPC_ISACTIVE: Aktiv
+LBL_ISPC_DB_ENABLED: Datenbank
+LBL_ISPC_DB_NAME: Datenbankname
+LBL_ISPC_DB_ID: Datenbank ID
+LBL_ISPC_DB_ACTIVE: Active
+LBL_ISPC_SSHKEY_ENABLED: SSH RSA Public Key A
+LBL_ISPC_SSHKEY: SSH RSA Public Key

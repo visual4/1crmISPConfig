@@ -1,0 +1,5 @@
+<?php return; ?>
+
+LBL_ISPC_TITLE: ISPConfig
+LBL_ISPC_SITES_SUBPANEL_TITLE: ISPConfig Sites
+LBL_ISPC_GROUPID: ISPConfig Group ID
